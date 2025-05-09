@@ -124,6 +124,9 @@ python dashboard/app.py
 - View detailed threat information
 - Monitor real-time updates
 
+### Screenshot
+![Dashboard Preview](https://github.com/Varadarsul/darkweb-threat-monitor/blob/main/Screenshot%202025-05-09%20185122.png?raw=true)
+
 ## Security Considerations
 
 - Always use Tor Browser for accessing .onion sites
