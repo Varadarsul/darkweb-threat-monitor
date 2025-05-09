@@ -1,0 +1,18 @@
+# Active .onion sites for monitoring
+# Search Engines
+http://msydqstlz2kzerdg.onion          # Ahmia (Onion Search Engine)
+http://onionlandsearchengine.onion     # OnionLand
+http://hss3uro2hsxfogfq.onion          # Haystak
+http://torlinkbgs6aabns.onion          # TorLinks
+
+# Forums and Marketplaces
+http://cwnj5t4pld7zv7nt.onion          # Dread (Reddit-style forum)
+http://phobos4ztgu4f7wf.onion          # Phobos Hidden Wiki
+http://darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion  # Dark Web Links
+http://darkfailllnkf4vf.onion          # Dark Fail (Status Board)
+
+# Additional Monitoring Sites
+http://torwikignoueupfm.onion          # Tor Wiki
+http://darknet7rn2puh7.onion           # Darknet Live
+http://darknetlive.com                  # Darknet Live (Clearnet)
+http://darknetmarkets.org              # Darknet Markets (Clearnet)
