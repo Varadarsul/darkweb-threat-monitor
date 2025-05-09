@@ -61,7 +61,7 @@ The project is currently running in test mode with the following characteristics
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Varadarsul/darkweb-threat-monitor.git
 cd dark-web-crawler
 ```
 
